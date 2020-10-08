@@ -1,8 +1,6 @@
 import 'package:bloc_pattern/bloc_pattern.dart';
 import 'package:controle_romaneio/Entidades/Bloc/romaneio-bloc.dart';
 import 'package:flutter/material.dart';
-import 'package:rxdart/rxdart.dart';
-
 class BarraFerramentasBloc extends BlocBase {
   final BuildContext contextoAplicacao;
   final String chaveConsulta;
