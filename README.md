@@ -1,16 +1,11 @@
-# controle_romaneio
+# Controle de Romaneio
 
-A new Flutter project.
+1 - Para rodar o projeto Flutter é necessário realizar a instalação conforme o Sistema Operacional, pelo link abaixo:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - https://flutter.dev/docs/get-started/install.
+ 
+2 - Pelo link, há o passo a passo, instruindo a instalar o SDK do Flutter. Após deve ser rodado o Flutter Doctor no prompt de comando para verificar se ainda falta algo a instalar.
+3 - Por último deve ser instalado os plugins do dart na IDE (Visual Studio ou Android Studio).
+4 - Para gerar o apk deve ser aberto o projeto na IDE e no prompt será necessário rodar o comando "flutter build apk" (em caso de debug pode ser rodado o comando "flutter run -d" + ID do dispositivo, que por sua vez buscado através do comando "flutter devices").
+ 
+ 
