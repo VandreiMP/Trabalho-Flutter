@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161064536153",
+    "firebase_url": "https://controle-romaneio.firebaseio.com",
+    "project_id": "controle-romaneio",
+    "storage_bucket": "controle-romaneio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161064536153:android:6a1a86b0590ab67c918948",
+        "android_client_info": {
+          "package_name": "com.example.controle_romaneio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161064536153-e1btb2s5v75ibkksm73mkehn74abhvvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdlAjmgXO0oOAA9ER33Ul3gyF0m4DScUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161064536153-e1btb2s5v75ibkksm73mkehn74abhvvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
